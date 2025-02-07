@@ -33,9 +33,5 @@ This project focuses on analyzing job postings from the City of Los Angeles. The
 3. Run the cells to process the data and generate insights.
 4. Review the structured CSV file (`cityofla_jobs.csv`) for final results.
 
-## Contact
-For questions or contributions, please reach out to the project maintainers.
 
----
-**Note**: This project is intended for analytical and research purposes only.
 
